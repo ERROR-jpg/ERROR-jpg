@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/ERROR-jpg/ERROR-jpg/main/Hello%2C%20I%20am%20Jaymin%20Rajgor%20(1).png" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Jaymin Rajgor</h1>
 <h3 align="center">A passionate FullStack developer based in Mumbai, India Some technologies I enjoy working with include MERN Stack (MongoDb + Express JS + React JS + Node JS) and Firebase. I also have a keen interest in solving problems related to Data Structures and Algorithms</h3>
 
