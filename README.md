@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaymin Rajgor</h1>
 <h3 align="center">A passionate FullStack developer based in Mumbai, India. Some technologies I enjoy working with include MERN Stack (MongoDb + Express JS + React JS + Node JS) and Firebase. I also have a keen interest in solving problems related to Data Structures and Algorithms</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error-jpg" alt="error-jpg" /></a> </p>
-
 - 🔭 I’m currently working on [Keeper](https://keeper-kmif.onrender.com/)
 
 - 🌱 I’m currently learning **Google Cloud Technology**
