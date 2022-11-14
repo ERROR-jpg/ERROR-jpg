@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaymin Rajgor</h1>
-<h3 align="center">A passionate FullStack developer based in Mumbai, India. Some technologies I enjoy working with include MERN Stack (MongoDb + Express JS + React JS + Node JS) and Firebase. I also have a keen interest in solving problems related to Data Structures and Algorithms</h3>
+<h3 align="center">A passionate FullStack developer based in Mumbai, India Some technologies I enjoy working with include MERN Stack (MongoDb + Express JS + React JS + Node JS) and Firebase. I also have a keen interest in solving problems related to Data Structures and Algorithms</h3>
 
 - 🔭 I’m currently working on [Keeper](https://keeper-kmif.onrender.com/)
 
@@ -28,8 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jaymin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jaymin" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=error-jpg&show_icons=true&locale=en&layout=compact" alt="error-jpg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error-jpg&show_icons=true&locale=en" alt="error-jpg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=error-jpg&show_icons=true&locale=en&layout=compact" alt="error-jpg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=error-jpg&" alt="error-jpg" /></p>
